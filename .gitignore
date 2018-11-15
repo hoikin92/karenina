@@ -62,3 +62,11 @@ target/
 .*.swp
 
 .DS_Store
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+*.iml
+.cache/v/cache/lastfailed
+data/outputs/OU_simulation/euclidean.txt
+data/outputs/OU_simulation_100.35.35/euclidean.txt
